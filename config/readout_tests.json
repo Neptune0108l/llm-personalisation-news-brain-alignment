@@ -1,0 +1,49 @@
+{
+  "bootstrap_n": 10000,
+  "signflip_n": 99999,
+  "base_seed": 20261023,
+  "randomization": "Exact saved upstream arrays; NumPy SeedSequence(20261023) spawned bootstrap and signflip streams",
+  "poolings": [
+    "last_token",
+    "target_mean"
+  ],
+  "rois": [
+    "self_referential",
+    "mentalizing",
+    "value"
+  ],
+  "main_layers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "test": "Two-sided participant sign flip of mean paired difference",
+  "new_family": "Three ROI tests of (T-S)_last_token minus (T-S)_target_mean; exploratory Holm3",
+  "bootstrap_interval": "Participant paired percentile 95% CI; pointwise, unadjusted",
+  "layer_tests": false
+}

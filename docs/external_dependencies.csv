@@ -1,0 +1,8 @@
+resource,source,needed_for,included,reason
+Original MIND news and click logs,https://msnews.github.io/,Raw platform replay and new inference,No; derived user metrics included,Third-party news/logs; obtain original data under provider terms
+Original news-reading fMRI data,https://doi.org/10.17605/OSF.IO/CAXFQ,Recreating trial betas and upstream participant image processing,No; participant metrics and group maps included,Use original-study access routes; compact release does not redistribute original images
+Local Qwen and DeepSeek model weights,Model-provider checkpoint repositories,New categorical inference and hidden-state extraction,No,Large third-party checkpoint files; provider licences apply
+Prepared participant beta arrays/model Gram matrices/semantic RDMs,Prepared through original data and local-model workflow,Full T-S searchlight replay,No,Large upstream arrays external to this compact source-data release
+MNI anatomical background and surface templates,Original template providers / nilearn data access,Optional spatial map presentation,No,Acquire matching template separately
+Six API models complete request-output archives,Not recovered in the archived participant-metric package,Exact request-level replay,No,Only derived metrics and confirmed prompt materials available in this release
+Updated nine-ROI brain-behaviour interval construction script,Not recovered,Exact reconstruction of updated Figure 5a interval endpoints,No; exact displayed summary included,Unresolved existing provenance gap; no substitute method asserted

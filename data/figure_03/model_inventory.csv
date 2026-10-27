@@ -1,0 +1,9 @@
+model,display_label,checkpoint_name,data_origin,history_n_min,history_n_max,history_confirmation,source,trial_predictions_available_in_this_package
+GPT-5.5,GPT-5.5,GPT-5.5,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+Claude-Sonnet-4.6,Claude-Sonnet-4.6,Claude-Sonnet-4.6,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+DeepSeek-R1,DeepSeek-R1,DeepSeek-R1,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+Qwen2.5-72B,Qwen2.5-72B,Qwen2.5-72B,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+Gemini-Pro,Gemini-Pro,Gemini-Pro,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+GLM-4-32B,GLM-4-32B,GLM-4-32B,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+Qwen2.5-7B-Instruct,Qwen2.5-7B,Qwen2.5-7B-Instruct,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False
+DeepSeek-R1-8B,Deepseek-R1-8B,DeepSeek-R1-Distill-Llama-8B,author_updated_participant_metrics,20,20,author supplied,data/figure_03/Figure3.csv,False

@@ -1,0 +1,8 @@
+# Optional upstream decoding and neuroimaging functions.
+nibabel>=5.2
+nilearn>=0.10
+scikit-learn>=1.4
+threadpoolctl>=3.2
+# Optional local-model inference; use versions compatible with the chosen checkpoint.
+torch>=2.4
+transformers>=4.45

@@ -1,0 +1,164 @@
+[
+  {
+    "file": "data/figure_S04/paired_test_matrix.npz",
+    "arrays": {
+      "values": {
+        "shape": [
+          95,
+          342
+        ],
+        "dtype": "float64"
+      },
+      "subjects": {
+        "shape": [
+          95
+        ],
+        "dtype": "<U9"
+      }
+    }
+  },
+  {
+    "file": "data/figure_S04/raw_layer_RSA.npz",
+    "arrays": {
+      "rho": {
+        "shape": [
+          95,
+          2,
+          29,
+          12,
+          3
+        ],
+        "dtype": "float64"
+      },
+      "subjects": {
+        "shape": [
+          95
+        ],
+        "dtype": "<U9"
+      },
+      "poolings": {
+        "shape": [
+          2
+        ],
+        "dtype": "<U11"
+      },
+      "rois": {
+        "shape": [
+          3
+        ],
+        "dtype": "<U16"
+      },
+      "conditions": {
+        "shape": [
+          12
+        ],
+        "dtype": "<U24"
+      },
+      "layers": {
+        "shape": [
+          29
+        ],
+        "dtype": "int64"
+      }
+    }
+  },
+  {
+    "file": "data/resampling/roi_rsa_indices.npz",
+    "arrays": {
+      "subjects": {
+        "shape": [
+          95
+        ],
+        "dtype": "<U9"
+      },
+      "signs": {
+        "shape": [
+          99999,
+          95
+        ],
+        "dtype": "int8"
+      },
+      "bootstrap_000": {
+        "shape": [
+          10000,
+          95
+        ],
+        "dtype": "int64"
+      },
+      "bootstrap_000_subject_positions": {
+        "shape": [
+          95
+        ],
+        "dtype": "int64"
+      },
+      "bootstrap_001": {
+        "shape": [
+          10000,
+          0
+        ],
+        "dtype": "int64"
+      },
+      "bootstrap_001_subject_positions": {
+        "shape": [
+          0
+        ],
+        "dtype": "int64"
+      }
+    }
+  },
+  {
+    "file": "data/resampling/semantic_control_signflips.npz",
+    "arrays": {
+      "signs": {
+        "shape": [
+          99999,
+          95
+        ],
+        "dtype": "int8"
+      }
+    }
+  },
+  {
+    "file": "data/searchlight/searchlight_geometry.npz",
+    "arrays": {
+      "common_mask_vector": {
+        "shape": [
+          61825
+        ],
+        "dtype": "bool"
+      },
+      "voxel_indices": {
+        "shape": [
+          41459,
+          3
+        ],
+        "dtype": "int64"
+      },
+      "world_coordinates": {
+        "shape": [
+          41459,
+          3
+        ],
+        "dtype": "float64"
+      },
+      "center_indices": {
+        "shape": [
+          34524
+        ],
+        "dtype": "int64"
+      },
+      "neighbor_indices": {
+        "shape": [
+          1119487
+        ],
+        "dtype": "int32"
+      },
+      "neighbor_indptr": {
+        "shape": [
+          34525
+        ],
+        "dtype": "int32"
+      }
+    }
+  }
+]

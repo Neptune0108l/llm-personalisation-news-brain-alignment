@@ -1,0 +1,16 @@
+{
+  "python": "3.12.14",
+  "purpose": "Packaging/static checks only; not a lockfile or assertion of original inference versions",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "PyMuPDF": "1.28.2",
+    "nibabel": "not installed in packaging interpreter",
+    "nilearn": "not installed in packaging interpreter",
+    "scikit-learn": "not installed in packaging interpreter",
+    "torch": "not installed in packaging interpreter",
+    "transformers": "not installed in packaging interpreter"
+  }
+}

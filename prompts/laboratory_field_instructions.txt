@@ -1,0 +1,7 @@
+For history and target records, topic is the topic, main_headline is the headline, and snippet is the abstract; rating is this reader's historical rating.
+
+History records:
+{JSON array of historical articles and ratings}
+
+Target article:
+{JSON object for the target article}

@@ -1,0 +1,593 @@
+file,column,rows,missing,description
+data/figure_02/paired_effects_full_precision.csv,model,18,0,Recorded model label
+data/figure_02/paired_effects_full_precision.csv,metric,18,0,Named behavioural metric
+data/figure_02/paired_effects_full_precision.csv,contrast,18,0,Signed comparison definition
+data/figure_02/paired_effects_full_precision.csv,n_users,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,mean_difference,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,sd_difference,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,ci95_low,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,ci95_high,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,n_bootstrap,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,bootstrap_seed,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/paired_effects_full_precision.csv,data_origin,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,model,18,0,Recorded model label
+data/figure_02/statistics_holm18.csv,metric,18,0,Named behavioural metric
+data/figure_02/statistics_holm18.csv,contrast,18,0,Signed comparison definition
+data/figure_02/statistics_holm18.csv,first_condition,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,second_condition,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,n_paired,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,mean_first,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,mean_second,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,mean_difference,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,sd_difference,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,ci95_low,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,ci95_high,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,cohen_dz,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,t_statistic,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,df,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,p_raw,18,0,Uncorrected test P
+data/figure_02/statistics_holm18.csv,test,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,alternative,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,correction,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,family_size,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,alpha,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,bootstrap_n,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,ci_multiplicity_adjusted,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,missing_pairs,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,analysis_timing,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,data_origin,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,p_holm,18,0,Holm-adjusted P within stated family
+data/figure_02/statistics_holm18.csv,significant_holm_0_05,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/statistics_holm18.csv,figure_symbol,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,model,18,0,Recorded model label
+data/figure_02/summary_full_precision.csv,condition,18,0,Input condition; see DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,metric,18,0,Named behavioural metric
+data/figure_02/summary_full_precision.csv,n_users,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,mean,18,0,Saved mean estimate
+data/figure_02/summary_full_precision.csv,sd,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,ci95_low,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,ci95_high,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,n_bootstrap,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,bootstrap_seed,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/summary_full_precision.csv,data_origin,18,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_by_repeat_full_precision.csv,model,24000,0,Recorded model label
+data/figure_02/user_metrics_by_repeat_full_precision.csv,user_id,24000,0,Coded platform user identifier
+data/figure_02/user_metrics_by_repeat_full_precision.csv,condition,24000,0,Input condition; see DATA_GUIDE.md
+data/figure_02/user_metrics_by_repeat_full_precision.csv,repeat,24000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_by_repeat_full_precision.csv,ndcg_at_5,24000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_by_repeat_full_precision.csv,map,24000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_by_repeat_full_precision.csv,auc,24000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_by_repeat_full_precision.csv,data_origin,24000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_full_precision.csv,model,6000,0,Recorded model label
+data/figure_02/user_metrics_full_precision.csv,user_id,6000,0,Coded platform user identifier
+data/figure_02/user_metrics_full_precision.csv,condition,6000,0,Input condition; see DATA_GUIDE.md
+data/figure_02/user_metrics_full_precision.csv,ndcg_at_5,6000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_full_precision.csv,map,6000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_full_precision.csv,auc,6000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_02/user_metrics_full_precision.csv,data_origin,6000,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/Figure3.csv,model,760,0,Recorded model label
+data/figure_03/Figure3.csv,sub,760,0,Coded laboratory participant identifier
+data/figure_03/Figure3.csv,pearson_r_article_only,760,38,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/Figure3.csv,pearson_r_shuffled_history,760,7,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/Figure3.csv,pearson_r_true_history,760,11,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/Figure3.csv,mae_article_only,760,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/Figure3.csv,mae_shuffled_history,760,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/Figure3.csv,mae_true_history,760,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,panel,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,metric,48,0,Named behavioural metric
+data/figure_03/figure3_summary_from_participants.csv,model,48,0,Recorded model label
+data/figure_03/figure3_summary_from_participants.csv,condition,48,0,Input condition; see DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,n_total,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,n_plotted,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,n_finite_condition,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,mean,48,0,Saved mean estimate
+data/figure_03/figure3_summary_from_participants.csv,sd,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,ci95_low,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,ci95_high,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,data_origin,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/figure3_summary_from_participants.csv,n_bootstrap,48,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,model,8,0,Recorded model label
+data/figure_03/model_inventory.csv,display_label,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,checkpoint_name,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,data_origin,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,history_n_min,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,history_n_max,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,history_confirmation,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/model_inventory.csv,source,8,0,Public package-relative metric input path
+data/figure_03/model_inventory.csv,trial_predictions_available_in_this_package,8,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/paired_participant_differences.csv,model,2932,0,Recorded model label
+data/figure_03/paired_participant_differences.csv,metric,2932,0,Named behavioural metric
+data/figure_03/paired_participant_differences.csv,comparator,2932,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/paired_participant_differences.csv,sub,2932,0,Coded laboratory participant identifier
+data/figure_03/paired_participant_differences.csv,benefit,2932,0,Signed prediction benefit; larger is better
+data/figure_03/significance_results_full_precision.csv,panel,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,model,32,0,Recorded model label
+data/figure_03/significance_results_full_precision.csv,metric,32,0,Named behavioural metric
+data/figure_03/significance_results_full_precision.csv,condition,32,0,Input condition; see DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,comparator,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,n_paired,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,n_excluded_nonfinite,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,mean_true_history,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,mean_comparator,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,mean_benefit,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,sd_paired_difference,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,bootstrap_ci95_low,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,bootstrap_ci95_high,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,cohen_dz,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,t_statistic,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,df,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,p_raw,32,0,Uncorrected test P
+data/figure_03/significance_results_full_precision.csv,family_size,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,difference_definition,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,test,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,multiplicity_correction,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,ci_method,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,ci_multiplicity_adjusted,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,n_bootstrap,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,bootstrap_seed,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_03/significance_results_full_precision.csv,p_holm,32,0,Holm-adjusted P within stated family
+data/figure_03/significance_results_full_precision.csv,significant_holm_0_05,32,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/Figure2_correlation_summary_checked.csv,metric,2,0,Named behavioural metric
+data/figure_04/Figure2_correlation_summary_checked.csv,estimate,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/Figure2_correlation_summary_checked.csv,n_subjects,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/Figure2_correlation_summary_checked.csv,n_trials,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/Figure2_correlation_summary_checked.csv,definition,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/group_metric_summary.csv,metric,7,0,Named behavioural metric
+data/figure_04/group_metric_summary.csv,n,7,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/group_metric_summary.csv,mean,7,0,Saved mean estimate
+data/figure_04/group_metric_summary.csv,sd,7,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/group_metric_summary.csv,sem,7,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/group_metric_summary.csv,t,7,0,Saved t statistic
+data/figure_04/group_metric_summary.csv,p,7,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,roi,9,0,Functional ROI label
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,n_subjects,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,n_voxels,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,activation_behavior_r_mean,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,activation_behavior_r_sd,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,activation_behavior_r_sem,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,activation_behavior_r_t,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,activation_behavior_r_p,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,activation_behavior_r_p_bh9,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,bh9_significant_0_05,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,displayed_stars_bh9,9,6,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,test_family,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,test,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/panel_b_roi_group_summary_BH9_checked.csv,correction,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,sub,95,0,Coded laboratory participant identifier
+data/figure_04/per_subject_brain_prediction.csv,n_trials,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,n_voxels,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,mean_selected_alpha,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,pearson_r,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,pearson_p,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,spearman_rho,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,spearman_p,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,mae,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,rmse,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,accuracy,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,within_one_accuracy,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,qwk,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/per_subject_brain_prediction.csv,bias,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/roi_activity_participants.csv,sub,855,0,Coded laboratory participant identifier
+data/figure_04/roi_activity_participants.csv,roi,855,0,Functional ROI label
+data/figure_04/roi_activity_participants.csv,n_voxels,855,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/roi_activity_participants.csv,activation_behavior_r,855,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_04/roi_activity_participants.csv,activation_behavior_p,855,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/brain_behaviour_summary.csv,roi,9,0,Functional ROI label
+data/figure_05/brain_behaviour_summary.csv,endpoint,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/brain_behaviour_summary.csv,n_subjects,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/brain_behaviour_summary.csv,mean,9,0,Saved mean estimate
+data/figure_05/brain_behaviour_summary.csv,ci_low,9,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_05/brain_behaviour_summary.csv,ci_high,9,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_05/MainFigure1_c_model_behavior.csv,model,3,0,Recorded model label
+data/figure_05/MainFigure1_c_model_behavior.csv,pooling,3,0,Representation readout
+data/figure_05/MainFigure1_c_model_behavior.csv,endpoint,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_c_model_behavior.csv,n_subjects,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_c_model_behavior.csv,mean,3,0,Saved mean estimate
+data/figure_05/MainFigure1_c_model_behavior.csv,ci_low,3,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_05/MainFigure1_c_model_behavior.csv,ci_high,3,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_05/MainFigure1_c_subject_RSA.csv,sub,95,0,Coded laboratory participant identifier
+data/figure_05/MainFigure1_c_subject_RSA.csv,article_only,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_c_subject_RSA.csv,shuffled,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_c_subject_RSA.csv,true_history,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layer28_subject_RSA.csv,sub,95,0,Coded laboratory participant identifier
+data/figure_05/MainFigure1_d_layer28_subject_RSA.csv,article_only,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layer28_subject_RSA.csv,shuffled,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layer28_subject_RSA.csv,true_history,95,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layers.csv,model,87,0,Recorded model label
+data/figure_05/MainFigure1_d_layers.csv,pooling,87,0,Representation readout
+data/figure_05/MainFigure1_d_layers.csv,layer,87,0,Layer index
+data/figure_05/MainFigure1_d_layers.csv,endpoint,87,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layers.csv,n_subjects,87,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layers.csv,mean,87,3,Saved mean estimate
+data/figure_05/MainFigure1_d_layers.csv,ci_low,87,3,Saved lower interval endpoint; method is analysis-specific
+data/figure_05/MainFigure1_d_layers.csv,ci_high,87,3,Saved upper interval endpoint; method is analysis-specific
+data/figure_05/MainFigure1_d_layers.csv,reason,87,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/MainFigure1_d_layers.csv,bootstrap_key,87,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,panel,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,metric,3,0,Named behavioural metric
+data/figure_05/Qwen_ABC_AS_significance.csv,comparison,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,n,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,mean_difference,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,t_statistic,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,df,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,p_raw,3,0,Uncorrected test P
+data/figure_05/Qwen_ABC_AS_significance.csv,ci_low,3,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_05/Qwen_ABC_AS_significance.csv,ci_high,3,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_05/Qwen_ABC_AS_significance.csv,ci_method,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,test,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,family,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,family_size,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_significance.csv,p_holm,3,0,Holm-adjusted P within stated family
+data/figure_05/Qwen_ABC_AS_significance.csv,label,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_subject_differences.csv,panel,277,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_ABC_AS_subject_differences.csv,participant,277,0,Coded laboratory participant identifier
+data/figure_05/Qwen_ABC_AS_subject_differences.csv,difference_S_minus_A,277,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,model,285,0,Recorded model label
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,score_type,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,user_id,285,0,Coded platform user identifier
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,condition,285,0,Input condition; see DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,n_trials,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,n_draws,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,n_valid_r_draws,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,pearson_r,285,10,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,mae,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_integer_rating_participant_metrics.csv,r_status,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,panel,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,contrast,5,0,Signed comparison definition
+data/figure_05/Qwen_RSA_exploratory_significance.csv,first,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,second,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,n,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,mean_delta,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,t_statistic,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,df,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,p_raw,5,0,Uncorrected test P
+data/figure_05/Qwen_RSA_exploratory_significance.csv,test,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,correction,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,family_size,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,status,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,paired_t_ci_low,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,paired_t_ci_high,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,ci_method,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_05/Qwen_RSA_exploratory_significance.csv,p_holm,5,0,Holm-adjusted P within stated family
+data/figure_05/Qwen_RSA_exploratory_significance.csv,label,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,model,9,0,Recorded model label
+data/figure_06/MainFigure2_c_absolute.csv,roi,9,0,Functional ROI label
+data/figure_06/MainFigure2_c_absolute.csv,variant,9,0,RSA processing setting
+data/figure_06/MainFigure2_c_absolute.csv,pooling,9,0,Representation readout
+data/figure_06/MainFigure2_c_absolute.csv,kind,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,endpoint,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,n_subjects,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,mean,9,0,Saved mean estimate
+data/figure_06/MainFigure2_c_absolute.csv,sd,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,median,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,ci_low,9,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_c_absolute.csv,ci_high,9,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_c_absolute.csv,proportion_positive,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,positive_ci_low,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,positive_ci_high,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,p_raw,9,9,Uncorrected test P
+data/figure_06/MainFigure2_c_absolute.csv,bootstrap_id,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,skew,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,loo_mean_min,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,loo_mean_max,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_absolute.csv,max_abs_contribution_fraction,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,model,6,0,Recorded model label
+data/figure_06/MainFigure2_c_significance.csv,roi,6,0,Functional ROI label
+data/figure_06/MainFigure2_c_significance.csv,variant,6,0,RSA processing setting
+data/figure_06/MainFigure2_c_significance.csv,pooling,6,0,Representation readout
+data/figure_06/MainFigure2_c_significance.csv,kind,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,contrast,6,0,Signed comparison definition
+data/figure_06/MainFigure2_c_significance.csv,n_subjects,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,mean_delta,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,sd_delta,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,median_delta,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,ci_low,6,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_c_significance.csv,ci_high,6,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_c_significance.csv,proportion_positive,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,positive_ci_low,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,positive_ci_high,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,p_raw,6,0,Uncorrected test P
+data/figure_06/MainFigure2_c_significance.csv,bootstrap_id,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,skew,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,loo_mean_min,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,loo_mean_max,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,max_abs_contribution_fraction,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_c_significance.csv,p_holm,6,0,Holm-adjusted P within stated family
+data/figure_06/MainFigure2_c_significance.csv,test_family,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,roi,3,0,Functional ROI label
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,contrast,3,0,Signed comparison definition
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,n,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,mean_delta,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,ci_low,3,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,ci_high,3,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,descriptive_t,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,df,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,p_raw,3,0,Uncorrected test P
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,p_holm,3,0,Holm-adjusted P within stated family
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,label,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,test,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_significance.csv,interval,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_subject.csv,sub,285,0,Coded laboratory participant identifier
+data/figure_06/MainFigure2_d_raw_vs_control_subject.csv,roi,285,0,Functional ROI label
+data/figure_06/MainFigure2_d_raw_vs_control_subject.csv,raw,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_subject.csv,semantic_control,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_raw_vs_control_subject.csv,control_minus_raw,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,model,6,0,Recorded model label
+data/figure_06/MainFigure2_d_semantic.csv,roi,6,0,Functional ROI label
+data/figure_06/MainFigure2_d_semantic.csv,variant,6,0,RSA processing setting
+data/figure_06/MainFigure2_d_semantic.csv,pooling,6,0,Representation readout
+data/figure_06/MainFigure2_d_semantic.csv,kind,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,endpoint,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,n_subjects,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,mean,6,0,Saved mean estimate
+data/figure_06/MainFigure2_d_semantic.csv,sd,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,median,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,ci_low,6,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_d_semantic.csv,ci_high,6,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_06/MainFigure2_d_semantic.csv,proportion_positive,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,positive_ci_low,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,positive_ci_high,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,p_raw,6,3,Uncorrected test P
+data/figure_06/MainFigure2_d_semantic.csv,bootstrap_id,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,skew,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,loo_mean_min,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,loo_mean_max,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_semantic.csv,max_abs_contribution_fraction,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/MainFigure2_d_subject_contrasts.csv,model,570,0,Recorded model label
+data/figure_06/MainFigure2_d_subject_contrasts.csv,sub,570,0,Coded laboratory participant identifier
+data/figure_06/MainFigure2_d_subject_contrasts.csv,roi,570,0,Functional ROI label
+data/figure_06/MainFigure2_d_subject_contrasts.csv,variant,570,0,RSA processing setting
+data/figure_06/MainFigure2_d_subject_contrasts.csv,pooling,570,0,Representation readout
+data/figure_06/MainFigure2_d_subject_contrasts.csv,contrast,570,0,Signed comparison definition
+data/figure_06/MainFigure2_d_subject_contrasts.csv,delta_rho,570,0,Paired signed RSA difference
+data/figure_06/MainFigure2_d_subject_contrasts.csv,common_included,570,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,model,1710,0,Recorded model label
+data/figure_06/roi_rsa_participants.csv,sub,1710,0,Coded laboratory participant identifier
+data/figure_06/roi_rsa_participants.csv,roi,1710,0,Functional ROI label
+data/figure_06/roi_rsa_participants.csv,variant,1710,0,RSA processing setting
+data/figure_06/roi_rsa_participants.csv,pooling,1710,0,Representation readout
+data/figure_06/roi_rsa_participants.csv,condition,1710,0,Input condition; see DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,layer_set,1710,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,n_layers,1710,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,n_trials,1710,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,n_pairs,1710,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,rho_mean,1710,0,Mean RSA over the specified layers/conditions
+data/figure_06/roi_rsa_participants.csv,common_included,1710,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_participants.csv,reason,1710,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,model,12,0,Recorded model label
+data/figure_06/roi_rsa_statistics_holm12.csv,roi,12,0,Functional ROI label
+data/figure_06/roi_rsa_statistics_holm12.csv,variant,12,0,RSA processing setting
+data/figure_06/roi_rsa_statistics_holm12.csv,pooling,12,0,Representation readout
+data/figure_06/roi_rsa_statistics_holm12.csv,kind,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,contrast,12,0,Signed comparison definition
+data/figure_06/roi_rsa_statistics_holm12.csv,n_subjects,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,mean_delta,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,sd_delta,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,median_delta,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,ci_low,12,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_06/roi_rsa_statistics_holm12.csv,ci_high,12,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_06/roi_rsa_statistics_holm12.csv,proportion_positive,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,positive_ci_low,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,positive_ci_high,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,p_raw,12,0,Uncorrected test P
+data/figure_06/roi_rsa_statistics_holm12.csv,bootstrap_id,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,skew,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,loo_mean_min,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,loo_mean_max,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,max_abs_contribution_fraction,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_06/roi_rsa_statistics_holm12.csv,p_holm,12,0,Holm-adjusted P within stated family
+data/figure_06/roi_rsa_statistics_holm12.csv,test_family,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_average_gain_summary.csv,pooling,12,0,Representation readout
+data/figure_S04/layer_average_gain_summary.csv,roi,12,0,Functional ROI label
+data/figure_S04/layer_average_gain_summary.csv,contrast,12,0,Signed comparison definition
+data/figure_S04/layer_average_gain_summary.csv,mean,12,0,Saved mean estimate
+data/figure_S04/layer_average_gain_summary.csv,ci_low,12,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_S04/layer_average_gain_summary.csv,ci_high,12,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_S04/layer_average_gain_summary.csv,n,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_gain_summary.csv,pooling,342,0,Representation readout
+data/figure_S04/layer_gain_summary.csv,roi,342,0,Functional ROI label
+data/figure_S04/layer_gain_summary.csv,layer,342,0,Layer index
+data/figure_S04/layer_gain_summary.csv,contrast,342,0,Signed comparison definition
+data/figure_S04/layer_gain_summary.csv,mean,342,0,Saved mean estimate
+data/figure_S04/layer_gain_summary.csv,ci_low,342,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_S04/layer_gain_summary.csv,ci_high,342,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_S04/layer_gain_summary.csv,n,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_significance_Holm342.csv,pooling,342,0,Representation readout
+data/figure_S04/layer_significance_Holm342.csv,roi,342,0,Functional ROI label
+data/figure_S04/layer_significance_Holm342.csv,layer,342,0,Layer index
+data/figure_S04/layer_significance_Holm342.csv,contrast,342,0,Signed comparison definition
+data/figure_S04/layer_significance_Holm342.csv,mean,342,0,Saved mean estimate
+data/figure_S04/layer_significance_Holm342.csv,ci_low,342,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_S04/layer_significance_Holm342.csv,ci_high,342,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_S04/layer_significance_Holm342.csv,n,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_significance_Holm342.csv,p_raw,342,0,Uncorrected test P
+data/figure_S04/layer_significance_Holm342.csv,p_holm342,342,0,Holm-adjusted P across 342 layer tests
+data/figure_S04/layer_significance_Holm342.csv,significant,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_significance_Holm342.csv,direction,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_significance_Holm342.csv,null_exceedances,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_significance_Holm342.csv,family_size,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/layer_significance_Holm342.csv,signflip_n,342,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/participant_layer_gains.csv,sub,32490,0,Coded laboratory participant identifier
+data/figure_S04/participant_layer_gains.csv,pooling,32490,0,Representation readout
+data/figure_S04/participant_layer_gains.csv,roi,32490,0,Functional ROI label
+data/figure_S04/participant_layer_gains.csv,layer,32490,0,Layer index
+data/figure_S04/participant_layer_gains.csv,contrast,32490,0,Signed comparison definition
+data/figure_S04/participant_layer_gains.csv,delta_rho,32490,0,Paired signed RSA difference
+data/figure_S04/participant_pooling_differences.csv,sub,285,0,Coded laboratory participant identifier
+data/figure_S04/participant_pooling_differences.csv,roi,285,0,Functional ROI label
+data/figure_S04/participant_pooling_differences.csv,last_token_T_minus_S,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/participant_pooling_differences.csv,target_mean_T_minus_S,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/participant_pooling_differences.csv,difference,285,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,roi,3,0,Functional ROI label
+data/figure_S04/pooling_difference_tests.csv,last_token_T_minus_S,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,target_mean_T_minus_S,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,mean_difference,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,ci_low,3,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_S04/pooling_difference_tests.csv,ci_high,3,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_S04/pooling_difference_tests.csv,p_raw,3,0,Uncorrected test P
+data/figure_S04/pooling_difference_tests.csv,p_holm,3,0,Holm-adjusted P within stated family
+data/figure_S04/pooling_difference_tests.csv,label,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,n,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,signflip_n,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/pooling_difference_tests.csv,family,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/significant_layers_summary.csv,pooling,12,0,Representation readout
+data/figure_S04/significant_layers_summary.csv,roi,12,0,Functional ROI label
+data/figure_S04/significant_layers_summary.csv,contrast,12,0,Signed comparison definition
+data/figure_S04/significant_layers_summary.csv,tested_layers,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/significant_layers_summary.csv,significant_layers,12,3,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/significant_layers_summary.csv,positive_count,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S04/significant_layers_summary.csv,negative_count,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/four_settings_summary.csv,roi,12,0,Functional ROI label
+data/figure_S05/four_settings_summary.csv,variant,12,0,RSA processing setting
+data/figure_S05/four_settings_summary.csv,mean,12,0,Saved mean estimate
+data/figure_S05/four_settings_summary.csv,ci_low,12,0,Saved lower interval endpoint; method is analysis-specific
+data/figure_S05/four_settings_summary.csv,ci_high,12,0,Saved upper interval endpoint; method is analysis-specific
+data/figure_S05/four_settings_summary.csv,n,12,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,model,3420,0,Recorded model label
+data/figure_S05/roi_rsa_participants_four_settings.csv,sub,3420,0,Coded laboratory participant identifier
+data/figure_S05/roi_rsa_participants_four_settings.csv,roi,3420,0,Functional ROI label
+data/figure_S05/roi_rsa_participants_four_settings.csv,variant,3420,0,RSA processing setting
+data/figure_S05/roi_rsa_participants_four_settings.csv,pooling,3420,0,Representation readout
+data/figure_S05/roi_rsa_participants_four_settings.csv,condition,3420,0,Input condition; see DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,layer_set,3420,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,n_layers,3420,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,n_trials,3420,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,n_pairs,3420,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,rho_mean,3420,0,Mean RSA over the specified layers/conditions
+data/figure_S05/roi_rsa_participants_four_settings.csv,common_included,3420,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/figure_S05/roi_rsa_participants_four_settings.csv,reason,3420,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/raw_T_minus_A_voxel_results.csv,x_mm,34524,0,MNI x coordinate in mm
+data/searchlight/raw_T_minus_A_voxel_results.csv,y_mm,34524,0,MNI y coordinate in mm
+data/searchlight/raw_T_minus_A_voxel_results.csv,z_mm,34524,0,MNI z coordinate in mm
+data/searchlight/raw_T_minus_A_voxel_results.csv,mean_delta_RSA,34524,0,Participant-mean signed RSA difference
+data/searchlight/raw_T_minus_A_voxel_results.csv,t,34524,0,Saved t statistic
+data/searchlight/raw_T_minus_A_voxel_results.csv,p_FWER_joint,34524,0,Joint Raw/Semantic-control max-absolute-t FWER P
+data/searchlight/raw_T_minus_A_voxel_results.csv,significant_FWER,34524,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/raw_voxel_results.csv,x_mm,34524,0,MNI x coordinate in mm
+data/searchlight/raw_voxel_results.csv,y_mm,34524,0,MNI y coordinate in mm
+data/searchlight/raw_voxel_results.csv,z_mm,34524,0,MNI z coordinate in mm
+data/searchlight/raw_voxel_results.csv,n_neighbors,34524,0,Number of valid voxels in neighbourhood
+data/searchlight/raw_voxel_results.csv,mean_delta_RSA,34524,0,Participant-mean signed RSA difference
+data/searchlight/raw_voxel_results.csv,t,34524,0,Saved t statistic
+data/searchlight/raw_voxel_results.csv,p_FWER_joint,34524,0,Joint Raw/Semantic-control max-absolute-t FWER P
+data/searchlight/raw_voxel_results.csv,significant_FWER,34524,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,variant,2,0,RSA processing setting
+data/searchlight/searchlight_summary.csv,n_subjects,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,tested_centers,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,total_family_tests,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,n_positive_FWER,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,n_negative_FWER,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,min_joint_p,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,max_abs_t,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,min_mean_delta,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,max_mean_delta,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/searchlight_summary.csv,mean_over_centers,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,x_mm,34524,0,MNI x coordinate in mm
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,y_mm,34524,0,MNI y coordinate in mm
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,z_mm,34524,0,MNI z coordinate in mm
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,mean_delta_RSA,34524,0,Participant-mean signed RSA difference
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,t,34524,0,Saved t statistic
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,p_FWER_joint,34524,0,Joint Raw/Semantic-control max-absolute-t FWER P
+data/searchlight/semantic_only_T_minus_A_voxel_results.csv,significant_FWER,34524,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/semantic_only_voxel_results.csv,x_mm,34524,0,MNI x coordinate in mm
+data/searchlight/semantic_only_voxel_results.csv,y_mm,34524,0,MNI y coordinate in mm
+data/searchlight/semantic_only_voxel_results.csv,z_mm,34524,0,MNI z coordinate in mm
+data/searchlight/semantic_only_voxel_results.csv,n_neighbors,34524,0,Number of valid voxels in neighbourhood
+data/searchlight/semantic_only_voxel_results.csv,mean_delta_RSA,34524,0,Participant-mean signed RSA difference
+data/searchlight/semantic_only_voxel_results.csv,t,34524,0,Saved t statistic
+data/searchlight/semantic_only_voxel_results.csv,p_FWER_joint,34524,0,Joint Raw/Semantic-control max-absolute-t FWER P
+data/searchlight/semantic_only_voxel_results.csv,significant_FWER,34524,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,variant,114,0,RSA processing setting
+data/searchlight/significant_components.csv,sign,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,component,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,n_centers,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,peak_x_mm,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,peak_y_mm,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,peak_z_mm,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,peak_t,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,peak_delta_RSA,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,peak_p_FWER,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/significant_components.csv,note,114,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,variant,40968,0,RSA processing setting
+data/searchlight/surface_projection.csv,hemisphere,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,vertex,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,x_mm,40968,0,MNI x coordinate in mm
+data/searchlight/surface_projection.csv,y_mm,40968,0,MNI y coordinate in mm
+data/searchlight/surface_projection.csv,z_mm,40968,0,MNI z coordinate in mm
+data/searchlight/surface_projection.csv,voxel_i,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,voxel_j,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,voxel_k,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,covered,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/surface_projection.csv,mean_delta_RSA,40968,16492,Participant-mean signed RSA difference
+data/searchlight/surface_projection.csv,projected_voxel_FWER_significant,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,variant,2,0,RSA processing setting
+data/searchlight/T_minus_A_searchlight_summary.csv,contrast,2,0,Signed comparison definition
+data/searchlight/T_minus_A_searchlight_summary.csv,n_subjects,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,tested_centers,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,total_family_tests,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,n_positive_FWER,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,n_negative_FWER,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,min_joint_p,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,max_abs_t,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,min_mean_delta,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_searchlight_summary.csv,max_mean_delta,2,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,variant,40968,0,RSA processing setting
+data/searchlight/T_minus_A_surface_projection.csv,hemisphere,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,vertex,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,x_mm,40968,0,MNI x coordinate in mm
+data/searchlight/T_minus_A_surface_projection.csv,y_mm,40968,0,MNI y coordinate in mm
+data/searchlight/T_minus_A_surface_projection.csv,z_mm,40968,0,MNI z coordinate in mm
+data/searchlight/T_minus_A_surface_projection.csv,voxel_i,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,voxel_j,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,voxel_k,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,covered,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/searchlight/T_minus_A_surface_projection.csv,mean_delta_RSA,40968,16492,Participant-mean signed RSA difference
+data/searchlight/T_minus_A_surface_projection.csv,projected_voxel_FWER_significant,40968,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/SM2_settings.csv,Analysis setting / 分析设置,4,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/SM2_settings.csv,Definition / 处理定义,4,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,Metric / 指标,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,Contrast / 比较,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,Qwen Δ / 平均收益,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,Qwen 95% CI,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,Qwen Holm18 P,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,DeepSeek Δ / 平均收益,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,DeepSeek 95% CI,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1a.csv,DeepSeek Holm18 P,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Model / 模型,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Metric / 指标,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Comparator / 对照,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Mean benefit / 平均收益,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,95% CI,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Holm32 P,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Model / 模型,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Metric / 指标,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Comparator / 对照,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Mean benefit / 平均收益,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,95% CI,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S1b.csv,Holm32 P,16,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S2.csv,ROI,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S2.csv,Mean activity r / 活动平均r,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S2.csv,Activity BH9 q / 活动BH9 q,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S2.csv,Mean brain–behaviour RSA / 脑—行为RSA均值,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S2.csv,RSA 95% interval / RSA的95%区间,9,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,ROI,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,Contrast / 比较,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,Qwen ΔRSA / 平均增益,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,Qwen 95% CI,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,Qwen Holm12 P,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,DeepSeek ΔRSA / 平均增益,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,DeepSeek 95% CI,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3a.csv,DeepSeek Holm12 P,6,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3b.csv,Analysis level / 分析层级,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3b.csv,Contrast / 比较,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3b.csv,Mean ΔRSA / 平均ΔRSA,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3b.csv,95% paired t interval / 95%配对t区间,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3b.csv,Holm P,5,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3c.csv,ROI,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3c.csv,Mean D / 平均D,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3c.csv,95% CI,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3c.csv,Holm3 P,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3d.csv,ROI,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3d.csv,Mean D_pool / 平均D_pool,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3d.csv,95% CI,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md
+data/tables/Table_S3d.csv,Holm3 P,3,0,Original source field; interpretation follows file role in figure_table_map.csv and DATA_GUIDE.md

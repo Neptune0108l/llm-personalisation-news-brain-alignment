@@ -1,0 +1,3 @@
+variant,contrast,n_subjects,tested_centers,total_family_tests,n_positive_FWER,n_negative_FWER,min_joint_p,max_abs_t,min_mean_delta,max_mean_delta
+raw,T-A,95,34524,69048,2077,0,0.0001,8.117889935677171,-0.006529373011717115,0.04848350732349693
+semantic_only,T-A,95,34524,69048,1128,0,0.0001,7.711568356027068,-0.009525601386890705,0.04854963156001875

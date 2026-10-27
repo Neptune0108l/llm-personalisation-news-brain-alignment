@@ -1,0 +1,8 @@
+{
+  "title": "Personalisation improves large language model alignment with human news preferences and brain representations",
+  "version": "v8-public-source-package",
+  "prepared": "2026-10-28",
+  "repository": "https://github.com/Neptune0108l/llm-personalisation-news-brain-alignment",
+  "status": "local upload package; no publication performed by builder",
+  "scope": "saved source data, adopted analyses and reusable computation kernels; not a full raw-data/model-inference archive"
+}

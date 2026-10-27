@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this code package and the original datasets."
+type: software
+title: "Personalisation improves large language model alignment with human news preferences and brain representations: code and source data"
+authors:
+  - family-names: Li
+    given-names: Bao
+  - family-names: Yan
+    given-names: Bin
+  - family-names: Zhang
+    given-names: Ruyuan
+  - family-names: Zhang
+    given-names: Chi
+  - family-names: Tong
+    given-names: Li
+  - family-names: Cao
+    given-names: Long
+  - family-names: Gao
+    given-names: Hui
+  - family-names: Wang
+    given-names: Linyuan
+  - family-names: Zhang
+    given-names: Yanghao
+  - family-names: Wu
+    given-names: Haowei
+repository-code: "https://github.com/Neptune0108l/llm-personalisation-news-brain-alignment"
+version: "v8-public-source-package"
+license: MIT

@@ -1,0 +1,13 @@
+You are predicting whether an online news user will click a candidate news article.
+
+Candidate news:
+- Category: {category}
+- Subcategory: {subcategory}
+- Title: {title}
+- Abstract: {abstract}
+
+The candidate article was shown to the user. Most shown candidate articles are not clicked.
+Predict the binary outcome.
+0 = the user will not click the candidate article.
+1 = the user will click the candidate article.
+Label:

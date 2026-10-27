@@ -1,0 +1,4 @@
+﻿panel,metric,comparison,n,mean_difference,t_statistic,df,p_raw,ci_low,ci_high,ci_method,test,family,family_size,p_holm,label
+a,pearson_r,S-A,87,-0.09377832349200338,-4.633160006300732,86,1.2705400570727172e-05,-0.13401546980682486,-0.053541177177181896,unadjusted paired t interval,two-sided paired t-test,"three added A-S tests across panels a,b,c",3,3.8116201712181516e-05,***
+b,mae,S-A,95,-0.029821597296185772,-2.3853289659224934,94,0.019070060150177884,-0.05464478996746721,-0.004998404624904335,unadjusted paired t interval,two-sided paired t-test,"three added A-S tests across panels a,b,c",3,0.03814012030035577,*
+c,model_behavior_RSA,S-A,95,0.007142216841044705,1.4974733378588434,94,0.13762064064246907,-0.002327760758065946,0.016612194440155357,unadjusted paired t interval,two-sided paired t-test,"three added A-S tests across panels a,b,c",3,0.13762064064246907,ns

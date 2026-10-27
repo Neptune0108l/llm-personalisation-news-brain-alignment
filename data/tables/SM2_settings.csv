@@ -1,0 +1,5 @@
+Analysis setting / 分析设置,Definition / 处理定义
+Raw,Spearman correlation between model and brain RDM vectors / 模型与脑RDM向量的Spearman相关
+Semantic control,Control for cosine distances between 384-dimensional target-article semantic embeddings / 控制目标文章384维语义嵌入的余弦距离
+Exclude adjacent trial pairs / 排除相邻试次对,"Restrict RDM entries to trial pairs whose original indices differ by >1, then recalculate Raw RSA / 仅保留原试次序号差>1的RDM条目，重新计算Raw RSA"
+Voxel centring across trials / 体素跨试次去均值,Centre each voxel across all valid trials within that participant before constructing the brain RDM / 对每个体素跨该参与者全部有效试次去均值，再构建脑RDM

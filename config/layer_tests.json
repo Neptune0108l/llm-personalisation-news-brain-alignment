@@ -1,0 +1,16 @@
+{
+  "analysis": "Exploratory layerwise paired contrast against zero",
+  "unit": "participant",
+  "n": 95,
+  "statistic": "absolute mean paired difference",
+  "sign_flips": 99999,
+  "p_value": "(exceedances+1)/100000; relative tie tolerance 1e-12",
+  "correction": "Holm, all 342 finite tests in this figure",
+  "family": "(28 last_token layers + 29 target_mean layers) x 3 ROIs x 2 contrasts",
+  "alpha": 0.05,
+  "base_seed": 20261023,
+  "randomness": "Reuse exact archived sign matrix",
+  "CI": "Unchanged 10000 participant paired bootstrap percentile intervals; pointwise and unadjusted",
+  "last_token_layer0": "Undefined and not tested",
+  "top_tracks": "One colored segment per layer with Holm-adjusted P<0.05, irrespective of direction; direction is retained in source table"
+}

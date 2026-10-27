@@ -1,0 +1,36 @@
+{
+  "input_csv": "data/figure_03/Figure3.csv",
+  "models": [
+    "GPT-5.5",
+    "Claude-Sonnet-4.6",
+    "DeepSeek-R1",
+    "Qwen2.5-72B",
+    "Gemini-Pro",
+    "GLM-4-32B",
+    "Qwen2.5-7B-Instruct",
+    "DeepSeek-R1-8B"
+  ],
+  "display_labels": {
+    "Qwen2.5-7B-Instruct": "Qwen2.5-7B",
+    "DeepSeek-R1-8B": "Deepseek-R1-8B"
+  },
+  "checkpoint_names": {
+    "DeepSeek-R1-8B": "DeepSeek-R1-Distill-Llama-8B",
+    "Qwen2.5-7B-Instruct": "Qwen2.5-7B-Instruct"
+  },
+  "conditions": [
+    "article_only",
+    "shuffled_history",
+    "true_history"
+  ],
+  "metrics": [
+    "pearson_r",
+    "mae"
+  ],
+  "history_trials": 20,
+  "history_trials_basis": "Author confirmation for all models in the updated dataset",
+  "expected_participants_per_model": 95,
+  "bootstrap_seed": 20261015,
+  "n_bootstrap": 10000,
+  "family_size": 32
+}
